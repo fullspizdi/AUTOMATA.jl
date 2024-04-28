@@ -1,0 +1,16 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[AUTOMATA]]
+deps = ["Julia"]
+git-tree-sha1 = "a1b2c3d4e5f678901234567890abcdef12345678"
+uuid = "12345678-1234-5678-1234-567812345678"
+version = "0.1.0"
+
+[[Julia]]
+uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
+version = "1.6.0"
+
+[[Test]]
+deps = ["Julia"]
+uuid = "8dfed614-e22c-5b08-85bf-7fbc9b8b5c3d"
+version = "1.0.0"

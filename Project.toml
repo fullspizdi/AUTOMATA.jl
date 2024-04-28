@@ -1,0 +1,17 @@
+[package]
+name = "AUTOMATA"
+uuid = "12345678-1234-5678-1234-567812345678"  # Replace with a real UUID
+authors = ["Your Name <your.email@example.com>"]
+version = "0.1.0"
+
+[deps]
+Julia = "1.6"
+
+[compat]
+Julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5b08-85bf-7fbc9b8b5c3d"
+
+[targets]
+test = ["Test"]
